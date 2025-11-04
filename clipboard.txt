@@ -1,0 +1,3 @@
+Clipboard Data:
+"C:\Users\dell\Desktop\Python\python-advanced-keylogger-crash-course-master\Keylogger"  # Ensure this folder exists or use absolute path
+
